@@ -5,10 +5,13 @@ XAI506 Deeplearning Mideterm
 
 ## Requirements
 
-python ≥ 3.10
-PyTorch ≥ 2.1 (CUDA build)
-CUDA  ≥ 11.8
-GPU VRAM 12 GB (per model)
+| Dependency | Recommended Version |
+|---|---|
+| Python | ≥ 3.10 |
+| PyTorch | ≥ 2.1 (CUDA build) |
+| CUDA | ≥ 11.8 |
+| GPU VRAM | ≥ 12 GB (per model) |
+
 
 ## Installation
 
