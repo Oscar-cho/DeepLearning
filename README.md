@@ -54,11 +54,6 @@ pip install jupyter ipykernel
 pip install git+https://github.com/facebookresearch/sam2.git
 ```
 
-**For Grounding DINO:**
-
-```bash
-pip install transformers[torch]   # already covered above
-```
 
 ### 6. Prepare input images
 
