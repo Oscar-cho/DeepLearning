@@ -240,6 +240,6 @@ Output:
 
 ## Notes
 
-- All notebooks are configured to run on a specific GPU (`cuda:2` or `cuda:3`). Change the `DEVICE` variable at the top of each notebook to match your hardware setup.
+- All notebooks are configured to run on a specific GPU. Change the `DEVICE` variable at the top of each notebook to match your hardware setup.
 - Images are automatically resized to a maximum of **1024 px** on their longest edge before inference.
 - Model weights are downloaded automatically from Hugging Face Hub on the first run. Ensure you have a stable internet connection and sufficient disk space (~5–20 GB depending on the model).
