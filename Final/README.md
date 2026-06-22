@@ -1,5 +1,7 @@
 # Image-to-Music Demo (SAM2 + Grounding DINO + Depth Anything + QWEN3)
 
+
+제 학번과 이름은 2025010653 조민규입니다.
 `sam2_depth.ipynb` 하나로 실행되는 최종 데모 문서입니다.  
 이미지 속 사람을 분할하고, 깊이값을 음높이에 매핑한 뒤, 텍스트 프롬프트를 반영해 10초짜리 음악/영상 결과를 생성합니다.
 
