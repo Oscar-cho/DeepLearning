@@ -1,0 +1,17 @@
+numpy
+matplotlib
+pillow
+transformers
+huggingface-hub
+pretty_midi
+opencv-python-headless
+ipywidgets
+ipympl
+
+# PyTorch (CUDA 환경에 맞게 설치 권장)
+torch
+torchvision
+torchaudio
+
+# SAM2
+git+https://github.com/facebookresearch/sam2.git
