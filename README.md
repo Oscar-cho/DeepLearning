@@ -1,6 +1,8 @@
 # DeepLearning
 XAI506 Deeplearning Mideterm
 
+Final에 대한 내용은 Final 폴더 안에 있습니다
+
 2025010653 조민규
 
 ## Requirements
